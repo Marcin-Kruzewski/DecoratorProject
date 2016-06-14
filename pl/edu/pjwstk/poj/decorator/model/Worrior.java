@@ -13,7 +13,9 @@ public class Worrior extends Profession {
 	}
 
 	private void init() {
-		professionSkills.add("Walka wrêcz");
+		if (!professionSkills.contains("Walka wrêcz")){ 
+			professionSkills.add("Walka wrêcz");
+		}
 		professionSkills.add("Walka mieczem");
 		professionSkills.add("Walka toporem");
 		professionSkills.add("Walka w³óczni¹");

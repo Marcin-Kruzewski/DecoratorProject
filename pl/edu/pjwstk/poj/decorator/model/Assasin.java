@@ -16,7 +16,10 @@ public class Assasin extends Profession {
 		if (!professionSkills.contains("Skradanie")){ 
 			professionSkills.add("Skradanie");
 		}
-		professionSkills.add("Eliksiry");
+		if (!professionSkills.contains("Walka wrêcz")){ 
+			professionSkills.add("Walka wrêcz");
+		}
+		professionSkills.add("Trucizny");
 	}
 	
 	@Override
