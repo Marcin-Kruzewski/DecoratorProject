@@ -1,4 +1,4 @@
-package pl.edu.pjwstk.poj.decorator;
+package pl.edu.pjwstk.poj.decorator.model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -3,14 +3,14 @@ package pl.edu.pjwstk.poj.decorator;
 import java.util.ArrayList;
 import java.util.List;
 
-import pl.snowball.decorator.model.ArmoryMaster;
-import pl.snowball.decorator.model.Assasin;
-import pl.snowball.decorator.model.Character;
-import pl.snowball.decorator.model.Dwarf;
-import pl.snowball.decorator.model.Elf;
-import pl.snowball.decorator.model.Human;
-import pl.snowball.decorator.model.Hunter;
-import pl.snowball.decorator.model.Worrior;
+import pl.edu.pjwstk.poj.decorator.model.ArmoryMaster;
+import pl.edu.pjwstk.poj.decorator.model.Assasin;
+import pl.edu.pjwstk.poj.decorator.model.Character;
+import pl.edu.pjwstk.poj.decorator.model.Dwarf;
+import pl.edu.pjwstk.poj.decorator.model.Elf;
+import pl.edu.pjwstk.poj.decorator.model.Human;
+import pl.edu.pjwstk.poj.decorator.model.Hunter;
+import pl.edu.pjwstk.poj.decorator.model.Worrior;
 
 public class Main {
 	public static void main(String[] args) {
