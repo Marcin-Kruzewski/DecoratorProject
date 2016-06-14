@@ -1,4 +1,4 @@
-package pl.snowball.decorator.model;
+package pl.edu.pjwstk.poj.decorator;
 
 import java.util.ArrayList;
 import java.util.List;

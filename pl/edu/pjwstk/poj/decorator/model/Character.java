@@ -1,4 +1,4 @@
-package pl.snowball.decorator.model;
+package pl.edu.pjwstk.poj.decorator;
 
 import java.io.File;
 import java.io.PrintWriter;

@@ -1,4 +1,4 @@
-package pl.snowball.decorator.model;
+package pl.edu.pjwstk.poj.decorator;
 
 /* Double "z" in name Wizzard is the form of tribute for Sir Terry Pratchett and created by him Disc World */
 
